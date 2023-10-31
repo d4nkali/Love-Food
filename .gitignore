@@ -1,0 +1,9 @@
+# Pastas venv
+
+.venv/
+venv/
+.venv/lib
+
+# Pasta vscode
+
+.vscode/
